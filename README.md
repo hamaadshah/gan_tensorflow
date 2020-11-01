@@ -3,4 +3,6 @@ We will explore the use of Generative Adversarial Networks for automatic feature
 
 ### Python environment
 
+```
 pip3 install -r requirements.txt
+```
