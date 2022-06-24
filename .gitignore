@@ -1,9 +1,5 @@
 __pycache__
 .*
 !/.gitignore
-*.pkl
-*.hdf5
-*.png
-!*CGAN*.png
-!*lattice*.png
-outputs/*.*
+!/.gitattributes
+data/
